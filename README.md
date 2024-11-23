@@ -1,7 +1,4 @@
-# Afame-Technologies
-Here is a **README.md** file for your calculator project:
-
----
+# Afame-Technologie
 
 # Calculator Web Application
 

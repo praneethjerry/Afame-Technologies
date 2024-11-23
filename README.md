@@ -1,4 +1,4 @@
-# Afame-Technologie
+# Afame-Technologies
 
 # Calculator Web Application
 
